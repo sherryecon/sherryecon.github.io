@@ -11,3 +11,19 @@
 - [Slides](sherryecon.github.io/pdf/mwgch1_slides.pdf) 
 - [Assignment 1](sherryecon.github.io/pdf/micro_hw1.pdf) (Due date: Sept. 16, before class), Solution
 
+### MWG Chapter 2
+- Lecture Notes
+- Slides
+- Assignment 2, Solution
+
+### MWG Chapter 3
+- Lecture Notes
+- Slides
+- Assignment 3, Solution
+
+### MWG Chapter 5
+- Lecture Notes
+- Slides
+- Assignment 4, Solution
+
+
