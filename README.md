@@ -5,9 +5,10 @@
 ### [Syllabus](sherryecon.github.io/pdf/adv_micro_syllabus.pdf)
 - Textbook: Microeconomic Theory, Mas‐Collel, A., M.D. Whinston, and J.R. Green, Oxford, 1995
 - This course covers Chapter 1, 2, 3 and 5
+
 ### MWG Chapter 1
 - [Lecture Notes](sherryecon.github.io/pdf/mwgch1.pdf)
-- [Slides](sherryecon.github.io/pdf/mwgch1_slides.pdf) (Due date: Sept. 16, 2019 Before class)
+- [Slides](sherryecon.github.io/pdf/mwgch1_slides.pdf) (Due date: Sept. 16, before class)
 - [Assignment 1](sherryecon.github.io/pdf/micro_hw1.pdf)
 - Solution
 
