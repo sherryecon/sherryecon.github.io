@@ -7,7 +7,7 @@
 - This course covers Chapter 1, 2, 3 and 5
 ### MWG Chapter 1
 - [Lecture Notes](sherryecon.github.io/pdf/mwgch1.pdf)
-- [Slides](sherryecon.github.io/pdf/mwgch1_slides.pdf)
+- [Slides](sherryecon.github.io/pdf/mwgch1_slides.pdf) (Due date: Sept. 16, 2019 课前)
 - [Assignment 1](sherryecon.github.io/pdf/micro_hw1.pdf)
 - Solution
 
