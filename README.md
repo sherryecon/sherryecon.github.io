@@ -2,7 +2,7 @@
 
 2019年秋，武汉大学，高级微观经济学硕士班
 
-### [Syllabus](sherryecon.github.io/pdf/adv_micro_syllabus.pdf)
+### [Syllabus](sherryecon.github.io/pdf/micro_syllabus.pdf)
 - Textbook: Microeconomic Theory, Mas‐Collel, A., M.D. Whinston, and J.R. Green, Oxford, 1995
 - This course covers Chapter 1, 2, 3 and 5. 
 - 原则上不必买教材，教师会在每堂课前公布相应课件，课件中命题 (Proposition) ，练习 (Exercise) 等编号均和教材一致。该教材 (MWG) 难度较高，是北美经济学博士生的标准教材。
