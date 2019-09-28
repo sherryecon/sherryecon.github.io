@@ -29,7 +29,7 @@
 - [Assignment 2](sherryecon.github.io/pdf/micro_hw2.pdf) (Tentative due date: Oct. 7, before class)
 
 ### MWG Chapter 3
-- Lecture Notes
+- Lecture Notes \[Part 1, Math Review, Part 2\]
 - Slides
 - Assignment 3
 
