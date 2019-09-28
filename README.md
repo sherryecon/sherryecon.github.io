@@ -29,8 +29,8 @@
 - [Assignment 2](sherryecon.github.io/pdf/micro_hw2.pdf) (Tentative due date: Oct. 7, before class)
 
 ### MWG Chapter 3
-- Lecture Notes \[Part 1, Math Review, Part 2\]
-- Slides
+- Lecture Notes \[[Part 1](sherryecon.github.io/pdf/mwgch3_part1.pdf), Math Review, Part 2\]
+- Slides \[[Part 1](sherryecon.github.io/pdf/mwgch2_slides_part1.pdf), Math Review, Part 2\]
 - Assignment 3
 
 ### MWG Chapter 5
