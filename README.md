@@ -34,6 +34,6 @@
 - [Assignment 3](sherryecon.github.io/pdf/micro_hw3.pdf) (Due date: Nov. 11, before class)
 
 ### MWG Chapter 5
-- Lecture Notes
-- Slides
+- [Lecture Notes](sherryecon.github.io/pdf/mwgch5.pdf)
+- [Slides](sherryecon.github.io/pdf/mwgch5_slides.pdf) 
 - Assignment 4
