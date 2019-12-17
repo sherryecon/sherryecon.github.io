@@ -29,8 +29,8 @@
 - [Assignment 2](sherryecon.github.io/pdf/micro_hw2.pdf) (Due date: Oct. 12, before class)
 
 ### MWG Chapter 3
-- Lecture Notes \[[Part 1](sherryecon.github.io/pdf/mwgch3_part1.pdf) (updated Oct. 14), [Math Review](sherryecon.github.io/pdf/MathReview_MaximizationProblem.pdf), [Part 2](sherryecon.github.io/pdf/mwgch3_part2.pdf)\]
-- Slides \[[Part 1](sherryecon.github.io/pdf/mwgch3_slides_part1.pdf) (updated Oct. 14), [Math Review](sherryecon.github.io/pdf/MathReview_MaximizationProblem_slides.pdf), [Part 2](sherryecon.github.io/pdf/mwgch3_slides_part2.pdf)\]
+- Lecture Notes \[[Part 1](sherryecon.github.io/pdf/mwgch3_part1.pdf) (updated Oct. 14), [Math Review](sherryecon.github.io/pdf/MathReview_MaximizationProblem.pdf), [Part 2](sherryecon.github.io/pdf/mwgch3_part2.pdf)(<span style="color: red;">Summary Figure (p.22) updated</span>)\]
+- Slides \[[Part 1](sherryecon.github.io/pdf/mwgch3_slides_part1.pdf) (updated Oct. 14), [Math Review](sherryecon.github.io/pdf/MathReview_MaximizationProblem_slides.pdf), [Part 2](sherryecon.github.io/pdf/mwgch3_slides_part2.pdf)(<span style="color: red;">Summary Figure (p.38) updated</span>)\]
 - [Assignment 3](sherryecon.github.io/pdf/micro_hw3.pdf) (Due date: Nov. 11, before class) [Solution to 3.E.9](sherryecon.github.io/pdf/micro_hw3_3.E.9.pdf), [Solution to 3.D.5 (b)](sherryecon.github.io/pdf/micro_hw3_3.D.5_b.pdf)
 
 ### MWG Chapter 5
