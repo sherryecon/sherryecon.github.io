@@ -35,5 +35,5 @@
 
 ### MWG Chapter 5
 - [Lecture Notes](sherryecon.github.io/pdf/mwgch5.pdf) (updated <span style="color: red;">Dec. 17</span>)
-- [Slides](sherryecon.github.io/pdf/mwgch5_slides.pdf) (updated Dec. 17)
+- [Slides](sherryecon.github.io/pdf/mwgch5_slides.pdf) (updated <span style="color: red;">Dec. 17</span>)
 - [Assignment 4](sherryecon.github.io/pdf/micro_hw4.pdf), [Solution](sherryecon.github.io/pdf/micro_hw4_solution.pdf)
